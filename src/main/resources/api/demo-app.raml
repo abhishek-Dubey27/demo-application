@@ -1,0 +1,17 @@
+#%RAML 1.0
+title: demo-application
+version: 1.0
+protocols:
+ - HTTP
+ - HTTPS
+
+
+/send:
+ get:
+   description: Sends the message of the API
+   responses:
+     200:
+       body:
+         application/json:
+           example: {"Hello from MuleSoft"}
+           
