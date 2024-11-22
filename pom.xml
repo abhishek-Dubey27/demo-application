@@ -6,7 +6,7 @@
 
 	<groupId>16da2c29-fb77-4b70-8f1a-c29be1001f91</groupId>
 	<artifactId>demo-application</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<packaging>mule-application</packaging>
 
 	<name>demo</name>
